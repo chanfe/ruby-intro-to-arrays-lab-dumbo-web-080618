@@ -9,3 +9,11 @@ end
 def first_element(array)
   
 end
+
+def (array)
+  
+end
+
+def first_element(array)
+  
+end
