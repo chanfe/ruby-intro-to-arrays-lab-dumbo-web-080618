@@ -1,1 +1,3 @@
-def insta
+def instantiate_new_array
+  []
+end
